@@ -1,0 +1,31 @@
+{
+  "f0_hz": 6000000000.0,
+  "target_z0_ohms": 50.0,
+  "substrate": {
+    "name": "Silicon",
+    "eps_r": 11.7,
+    "thickness_m": 0.0005,
+    "loss_tangent": 0.0,
+    "mu_r": 1.0,
+    "density_kg_per_m3": null,
+    "thermal_conductivity_W_per_mK": null,
+    "thermal_expansion_ppm_per_K": null,
+    "color": "darkgray",
+    "valid_frequency_min_Hz": null,
+    "valid_frequency_max_Hz": null
+  },
+  "resonator_mode": "quarter",
+  "width_m": 9.999999999999999e-06,
+  "n_meanders": 3,
+  "meander_pitch_m": 0.00015,
+  "coupling_length_m": 0.0003,
+  "coupling_gap_m": 2e-05,
+  "feed_width_m": 9.999999999999999e-06,
+  "substrate_margin_x_m": 0.0003,
+  "substrate_margin_y_m": 0.0003,
+  "air_box_height_m": 0.001,
+  "metal_thickness_m": 1e-05,
+  "short_strap_extension_m": 1e-05,
+  "short_strap_width_margin_m": 2e-05,
+  "corner_fillet_m": 1e-06
+}

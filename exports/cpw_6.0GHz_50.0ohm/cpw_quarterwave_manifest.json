@@ -1,0 +1,22 @@
+{
+  "frequency_hz": 6000000000.0,
+  "impedance_ohm": null,
+  "eps_eff": 6.350872525446824,
+  "substrate": {
+    "name": null,
+    "eps_r": null,
+    "height_m": null,
+    "loss_tangent": null
+  },
+  "conductor": {
+    "name": null
+  },
+  "versions": {
+    "software_version": "unknown",
+    "calculator_version": "1.2.0",
+    "geometry_version": "2.0.1",
+    "viewer_version": "1.0.0"
+  },
+  "timestamp": "2026-07-17T17:50:10.230661+00:00",
+  "git_hash": null
+}

@@ -1,0 +1,17 @@
+{
+  "frequency_hz": 6000000000.0,
+  "impedance_ohm": null,
+  "eps_eff": 6.350872525446824,
+  "substrate": {
+    "name": null,
+    "eps_r": null,
+    "height_m": null,
+    "loss_tangent": null
+  },
+  "conductor": {
+    "name": null
+  },
+  "software_version": "unknown",
+  "timestamp": "2026-07-14T18:18:00.057009+00:00",
+  "git_hash": null
+}

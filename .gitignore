@@ -1,0 +1,49 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+CPWPY/
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# CAD exports (optional)
+# Uncomment these if you don't want generated CAD files on GitHub
+# exports/
+# *.step
+# *.stl
+# *.brep
