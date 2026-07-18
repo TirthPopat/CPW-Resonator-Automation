@@ -20,7 +20,7 @@ The project combines analytical microwave calculations with parametric CAD gener
 This project is being developed as part of the **RIT Quantathon Hackathon** with the long-term vision of creating an AI-assisted resonator design platform.
 
 ---
-
+We need Comsol MultiPhysics Software
 # Features
 
 ## Analytical Microwave Design
